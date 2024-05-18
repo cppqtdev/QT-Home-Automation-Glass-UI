@@ -1,0 +1,73 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Style.qml</file>
+        <file>fonts/CodecPro-Italic.ttf</file>
+        <file>fonts/CodecPro-Regular.ttf</file>
+        <file>fonts/fontawesome.otf</file>
+        <file>Components/IconLabel.qml</file>
+        <file>assets/Cover.png</file>
+        <file>Components/OutlinedLabel.qml</file>
+        <file>Components/WizardStepper.qml</file>
+        <file>assets/check-solid.svg</file>
+        <file>Components/PrefsSwitch.qml</file>
+        <file>fonts/Lato-Bold.ttf</file>
+        <file>fonts/Lato-Regular.ttf</file>
+        <file>Components/PrefsLabel.qml</file>
+        <file>assets/brasero.svg</file>
+        <file>assets/brave-browser.svg</file>
+        <file>assets/itunes.svg</file>
+        <file>assets/spotify-client.svg</file>
+        <file>assets/system-run.svg</file>
+        <file>assets/youtube-to-mp3.svg</file>
+        <file>assets/youtube.svg</file>
+        <file>Components/PrefsSlider.qml</file>
+        <file>Screens/Home.qml</file>
+        <file>Screens/Kitchen.qml</file>
+        <file>Screens/Bedroom.qml</file>
+        <file>Screens/Laundary.qml</file>
+        <file>MainArea.qml</file>
+        <file>Models/RoomModel.qml</file>
+        <file>assets/others/Subtract.png</file>
+        <file>assets/others/Subtract.svg</file>
+        <file>assets/others/Ellipse 44.png</file>
+        <file>assets/others/Ellipse 45.png</file>
+        <file>assets/others/Ellipse 46.png</file>
+        <file>assets/others/Ellipse 47.png</file>
+        <file>Components/Tile.qml</file>
+        <file>Components/IconImage.qml</file>
+        <file>Components/PrefsProgressBar.qml</file>
+        <file>Components/PrefsCircularProgressBar.qml</file>
+        <file>Components/LeftPane.qml</file>
+        <file>Components/MiddlePane.qml</file>
+        <file>Components/MiddlePaneWidget.qml</file>
+        <file>Components/RightPane.qml</file>
+        <file>Components/RightPaneLightSwitchComponent.qml</file>
+        <file>Components/TimeShow.qml</file>
+        <file>Components/PrefsTabButton.qml</file>
+        <file>assets/fan-solid.svg</file>
+        <file>Screens/Dashboard.qml</file>
+        <file>Screens/AirConditioner.qml</file>
+        <file>Screens/Lighting.qml</file>
+        <file>Screens/Applications.qml</file>
+        <file>Screens/Settings.qml</file>
+        <file>Screens/Security.qml</file>
+        <file>Screens/Communications.qml</file>
+        <file>assets/light1.png</file>
+        <file>assets/light2.png</file>
+        <file>Components/LightingTile.qml</file>
+        <file>Models/LightingModel.qml</file>
+        <file>Screens/CCTV.qml</file>
+        <file>Models/CCTVModel.qml</file>
+        <file>Components/CCTVTile.qml</file>
+        <file>Components/CircularSlider.qml</file>
+        <file>Components/EffectButton.qml</file>
+        <file>assets/🦆 icon _flash_.svg</file>
+        <file>assets/reload.svg</file>
+        <file>assets/wrench.svg</file>
+        <file>Components/PrefsLabelSelector.qml</file>
+        <file>assets/icons/sliderToolTip.svg</file>
+        <file>assets/icons/fault.svg</file>
+        <file>assets/icons/faultindi.svg</file>
+    </qresource>
+</RCC>
